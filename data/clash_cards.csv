@@ -1,42 +1,121 @@
 card,elixir,type
-Archers,3,troop
 Knight,3,troop
+Archers,3,troop
+Goblins,2,troop
 Giant,5,troop
-Skeletons,1,troop
-Goblin Gang,3,troop
-Fireball,4,spell
-Zap,2,spell
-Cannon,3,building
-Musketeer,4,troop
-Valkyrie,4,troop
-Hog Rider,4,troop
-Wizard,5,troop
 P.E.K.K.A,7,troop
-X-Bow,6,building
-Rocket,6,spell
-Baby Dragon,4,troop
-Mega Minion,3,troop
-Balloon,5,troop
-Golem,8,troop
-Goblin Barrel,3,spell
-Tornado,3,spell
-Electro Wizard,4,troop
-Freeze,4,spell
-Mortar,4,building
-Bowler,5,troop
-Ice Spirit,1,troop
-Log,2,spell
-Skeleton Army,3,troop
-Royal Giant,6,troop
-Mini P.E.K.K.A,4,troop
 Minions,3,troop
-Rage,2,spell
-Sparky,6,troop
-Furnace,4,building
+Balloon,5,troop
 Witch,5,troop
-Bandit,3,troop
-Poison,4,spell
+Barbarians,5,troop
+Golem,8,troop
+Skeletons,1,troop
+Valkyrie,4,troop
+Skeleton Army,3,troop
+Bomber,2,troop
+Musketeer,4,troop
+Baby Dragon,4,troop
+Prince,5,troop
+Wizard,5,troop
+Mini P.E.K.K.A,4,troop
+Spear Goblins,2,troop
+Giant Skeleton,6,troop
+Hog Rider,4,troop
+Minion Horde,5,troop
+Ice Wizard,3,troop
+Royal Giant,6,troop
+Guards,3,troop
+Princess,3,troop
+Dark Prince,4,troop
+Three Musketeers,9,troop
+Lava Hound,7,troop
+Ice Spirit,1,troop
+Fire Spirit,1,troop
 Miner,3,troop
-Heal Spirit,1,troop
-Lightning,6,spell
+Sparky,6,troop
+Bowler,5,troop
+Lumberjack,4,troop
+Battle Ram,4,troop
+Inferno Dragon,4,troop
+Ice Golem,2,troop
+Mega Minion,3,troop
+Dart Goblin,3,troop
+Goblin Gang,3,troop
+Electro Wizard,4,troop
+Elite Barbarians,6,troop
+Hunter,4,troop
+Executioner,5,troop
+Bandit,3,troop
+Royal Recruits,7,troop
+Night Witch,4,troop
+Bats,2,troop
+Royal Ghost,3,troop
+Ram Rider,5,troop
+Zappies,4,troop
+Rascals,5,troop
+Cannon Cart,5,troop
+Mega Knight,7,troop
+Skeleton Barrel,3,troop
+Flying Machine,4,troop
+Wall Breakers,2,troop
+Royal Hogs,5,troop
+Goblin Giant,6,troop
+Fisherman,3,troop
+Magic Archer,4,troop
+Electro Dragon,5,troop
+Firecracker,3,troop
+Mighty Miner,4,troop
+Super Witch,6,troop
+Elixir Golem,3,troop
+Battle Healer,4,troop
+Skeleton King,4,troop
+Super Lava Hound,8,troop
+Super Magic Archer,5,troop
+Archer Queen,5,troop
+Santa Hog Rider,5,troop
+Golden Knight,4,troop
+Super Ice Golem,4,troop
+Monk,5,troop
+Super Archers,3,troop
+Skeleton Dragons,4,troop
+Terry,4,troop
+Super Mini P.E.K.K.A,5,troop
+Mother Witch,4,troop
+Electro Spirit,1,troop
+Electro Giant,7,troop
+Raging Prince,5,troop
+Phoenix,4,troop
+Cannon,3,building
+Goblin Hut,5,building
+Mortar,4,building
+Inferno Tower,5,building
 Bomb Tower,4,building
+Barbarian Hut,6,building
+Tesla,4,building
+Elixir Collector,6,building
+X-Bow,6,building
+Tombstone,3,building
+Furnace,4,building
+Goblin Cage,4,building
+Goblin Drill,4,building
+Party Hut,5,building
+Fireball,4,spell
+Arrows,3,spell
+Rage,2,spell
+Rocket,6,spell
+Goblin Barrel,3,spell
+Freeze,4,spell
+Mirror,1,spell
+Lightning,6,spell
+Zap,2,spell
+Poison,4,spell
+Graveyard,5,spell
+The Log,2,spell
+Tornado,3,spell
+Clone,3,spell
+Earthquake,3,spell
+Barbarian Barrel,2,spell
+Heal Spirit,1,troop
+Giant Snowball,2,spell
+Royal Delivery,3,spell
+Party Rocket,5,spell
